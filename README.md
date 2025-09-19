@@ -62,7 +62,7 @@ After training, the LoRA weights were merged with the base model and converted f
 
 ---
 
-🧠 The final fine-tuned and quantized model is available on Hugging Face: premrajreddy/Home-TinyLlama-1.1B-HomeAssist-GGUF
+🧠 The final fine-tuned and quantized model is available on Hugging Face: **premrajreddy/Home-TinyLlama-1.1B-HomeAssist-GGUF**
 
 
 
