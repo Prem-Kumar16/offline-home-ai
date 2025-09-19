@@ -8,6 +8,17 @@ A custom **fine-tuned language model (TinyLLaMA)** powers the natural language u
 
 ---
 
+## 📘 Notebook Execution Order
+
+Run the notebooks in the following order for a smooth workflow:
+
+1. EDA – Explore and analyze the dataset.
+2. Assist_fine_tune – Fine-tune the model using LoRA.
+3. Home_llm_eval – Evaluate the performance of the fine-tuned model.
+4. Ollama-conversion – Convert the model to GGUF format for use with Ollama.
+
+---
+
 ## ⚙️ Project Architecture
 
 **Core Components:**
